@@ -4,7 +4,8 @@
     "manifest_version": 3,
     "description": "Yet another cookie editor.",
     "permissions": [
-        "cookies"
+        "cookies",
+        "storage"
     ],
     "host_permissions": ["<all_urls>"],
     "action": {
